@@ -1,0 +1,116 @@
+2024-02-03 15:22:36,982 - Mock Version: 5.4
+2024-02-03 15:22:36,990 - Start(bootstrap): chroot init
+2024-02-03 15:22:37,010 - Start(bootstrap): cleaning package manager metadata
+2024-02-03 15:22:37,011 - Finish(bootstrap): cleaning package manager metadata
+2024-02-03 15:22:37,553 - Finish(bootstrap): chroot init
+2024-02-03 15:22:37,557 - Start: chroot init
+2024-02-03 15:22:37,576 - Start: cleaning package manager metadata
+2024-02-03 15:22:37,595 - Finish: cleaning package manager metadata
+2024-02-03 15:22:38,124 - Start: installing minimal buildroot with dnf
+2024-02-03 15:23:05,113 - Finish: installing minimal buildroot with dnf
+2024-02-03 15:23:05,303 - Start: creating root cache
+2024-02-03 15:23:05,673 - Finish: creating root cache
+2024-02-03 15:23:05,674 - Finish: chroot init
+2024-02-03 15:23:05,761 - Start: build phase for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:23:05,764 - Start: build setup for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:23:26,902 - Finish: build setup for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:23:26,903 - Start: Outputting list of installed packages
+2024-02-03 15:23:27,040 - Finish: Outputting list of installed packages
+2024-02-03 15:23:27,040 - Start: rpmbuild budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:23:27,108 - Finish: rpmbuild budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:23:27,108 - Finish: build phase for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:23:27,111 - Start: clean chroot
+2024-02-03 15:23:31,703 - Finish: clean chroot
+2024-02-03 15:25:58,483 - Mock Version: 5.4
+2024-02-03 15:25:58,491 - Start(bootstrap): chroot init
+2024-02-03 15:25:58,513 - Start(bootstrap): cleaning package manager metadata
+2024-02-03 15:25:58,513 - Finish(bootstrap): cleaning package manager metadata
+2024-02-03 15:25:59,034 - Finish(bootstrap): chroot init
+2024-02-03 15:25:59,038 - Start: chroot init
+2024-02-03 15:25:59,054 - Start: unpacking root cache
+2024-02-03 15:25:59,686 - Finish: unpacking root cache
+2024-02-03 15:25:59,690 - Start: cleaning package manager metadata
+2024-02-03 15:25:59,691 - Finish: cleaning package manager metadata
+2024-02-03 15:26:00,205 - Start: dnf update
+2024-02-03 15:26:01,433 - Finish: dnf update
+2024-02-03 15:26:01,668 - Finish: chroot init
+2024-02-03 15:26:01,669 - Start: build phase for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:26:01,672 - Start: build setup for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:26:18,741 - Finish: build setup for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:26:18,741 - Start: Outputting list of installed packages
+2024-02-03 15:26:18,881 - Finish: Outputting list of installed packages
+2024-02-03 15:26:18,882 - Start: rpmbuild budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:26:18,949 - Finish: rpmbuild budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:26:18,949 - Finish: build phase for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:26:18,952 - Start: clean chroot
+2024-02-03 15:26:23,530 - Finish: clean chroot
+2024-02-03 15:27:20,648 - Mock Version: 5.4
+2024-02-03 15:27:20,655 - Start(bootstrap): chroot init
+2024-02-03 15:27:20,676 - Start(bootstrap): cleaning package manager metadata
+2024-02-03 15:27:20,676 - Finish(bootstrap): cleaning package manager metadata
+2024-02-03 15:27:21,190 - Finish(bootstrap): chroot init
+2024-02-03 15:27:21,194 - Start: chroot init
+2024-02-03 15:27:21,210 - Start: unpacking root cache
+2024-02-03 15:27:21,843 - Finish: unpacking root cache
+2024-02-03 15:27:21,846 - Start: cleaning package manager metadata
+2024-02-03 15:27:21,848 - Finish: cleaning package manager metadata
+2024-02-03 15:27:22,366 - Start: dnf update
+2024-02-03 15:27:24,570 - Finish: dnf update
+2024-02-03 15:27:24,793 - Finish: chroot init
+2024-02-03 15:27:24,795 - Start: build phase for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:27:24,798 - Start: build setup for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:27:42,442 - Finish: build setup for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:27:42,443 - Start: Outputting list of installed packages
+2024-02-03 15:27:42,579 - Finish: Outputting list of installed packages
+2024-02-03 15:27:42,579 - Start: rpmbuild budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:27:45,610 - Finish: rpmbuild budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:27:45,610 - Finish: build phase for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:27:45,613 - Start: clean chroot
+2024-02-03 15:27:50,844 - Finish: clean chroot
+2024-02-03 15:28:07,008 - Mock Version: 5.4
+2024-02-03 15:28:07,016 - Start(bootstrap): chroot init
+2024-02-03 15:28:07,035 - Start(bootstrap): cleaning package manager metadata
+2024-02-03 15:28:07,035 - Finish(bootstrap): cleaning package manager metadata
+2024-02-03 15:28:07,554 - Finish(bootstrap): chroot init
+2024-02-03 15:28:07,558 - Start: chroot init
+2024-02-03 15:28:07,573 - Start: unpacking root cache
+2024-02-03 15:28:08,207 - Finish: unpacking root cache
+2024-02-03 15:28:08,210 - Start: cleaning package manager metadata
+2024-02-03 15:28:08,212 - Finish: cleaning package manager metadata
+2024-02-03 15:28:08,738 - Start: dnf update
+2024-02-03 15:28:09,923 - Finish: dnf update
+2024-02-03 15:28:10,149 - Finish: chroot init
+2024-02-03 15:28:10,150 - Start: build phase for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:28:10,153 - Start: build setup for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:28:27,525 - Finish: build setup for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:28:27,525 - Start: Outputting list of installed packages
+2024-02-03 15:28:27,665 - Finish: Outputting list of installed packages
+2024-02-03 15:28:27,665 - Start: rpmbuild budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:28:31,097 - Finish: rpmbuild budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:28:31,097 - Finish: build phase for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:28:31,100 - Start: clean chroot
+2024-02-03 15:28:36,194 - Finish: clean chroot
+2024-02-03 15:29:28,237 - Mock Version: 5.4
+2024-02-03 15:29:28,244 - Start(bootstrap): chroot init
+2024-02-03 15:29:28,263 - Start(bootstrap): cleaning package manager metadata
+2024-02-03 15:29:28,263 - Finish(bootstrap): cleaning package manager metadata
+2024-02-03 15:29:28,782 - Finish(bootstrap): chroot init
+2024-02-03 15:29:28,786 - Start: chroot init
+2024-02-03 15:29:28,801 - Start: unpacking root cache
+2024-02-03 15:29:29,443 - Finish: unpacking root cache
+2024-02-03 15:29:29,446 - Start: cleaning package manager metadata
+2024-02-03 15:29:29,448 - Finish: cleaning package manager metadata
+2024-02-03 15:29:29,986 - Start: dnf update
+2024-02-03 15:29:31,593 - Finish: dnf update
+2024-02-03 15:29:31,819 - Finish: chroot init
+2024-02-03 15:29:31,820 - Start: build phase for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:29:31,823 - Start: build setup for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:29:48,658 - Finish: build setup for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:29:48,659 - Start: Outputting list of installed packages
+2024-02-03 15:29:48,794 - Finish: Outputting list of installed packages
+2024-02-03 15:29:48,794 - Start: rpmbuild budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:29:52,614 - Finish: rpmbuild budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:29:52,615 - Finish: build phase for budgie-session-0.9.1-1.fc39.src.rpm
+2024-02-03 15:29:52,619 - Start: clean chroot
+2024-02-03 15:29:57,147 - Finish: clean chroot
+2024-02-03 15:29:57,148 - Finish: run
